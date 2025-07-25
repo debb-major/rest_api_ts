@@ -27,7 +27,7 @@ This is a beginner-friendly REST API built using **Node.js**, **TypeScript**, **
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/debb-major/rest_api_ts.git
    cd your-repo-name
    ```
 2. **Install dependencies**
